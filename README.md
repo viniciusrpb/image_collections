@@ -1,2 +1,3 @@
-# image_collections
+# Image Collections
+
 Repository of Image Collections
